@@ -1,2 +1,7 @@
 log.txt
+<<<<<<< HEAD
 /dir2/console.log(123)
+=======
+/dir2/console.log(123)
+/dir.2
+>>>>>>> login
